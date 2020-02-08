@@ -1,0 +1,8 @@
+For my project, I am wanting to combine the use of a scraper with some data manipulation.
+
+The project would be a python script that can be run on a website.
+
+It would input every valid postcode into the search bar, scrape the output loaded for information such as address, coordindates etc.
+and then input the results into a .csv spreadsheet.
+
+There would need to be some data cleaning that would have to occur as well, removing useless information and removing duplicates to new a few.
