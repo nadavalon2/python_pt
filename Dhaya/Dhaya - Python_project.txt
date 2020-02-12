@@ -1,0 +1,10 @@
+Project Title: Predicting House Prices using Advanced Regression Techniques
+
+Project Details: 
+
+Predict the final price for each home based on the 79 variables provided.
+The dataset is a combination of numerical and categorical features which provides ample opportunity for data analysis. 
+The data set is beginner friendly and seems suitable for exploratory analysis based on my research. 
+Further, I also hope to provide some interesting visualisations to compliment my findings.
+
+Dataset URL: https://www.kaggle.com/c/house-prices-advanced-regression-techniques/overview
